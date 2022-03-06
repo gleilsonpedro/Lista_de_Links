@@ -9,6 +9,8 @@ new=2
 url="https://www.scielosp.org/article/sausoc/2017.v26n1/208-217/"
 webbrowser.open(url,new=new)
 
+
+
 #####Atualizado#####
 #import webbrowser
 #new=2
