@@ -1,4 +1,4 @@
-#🟥 Links Úteis
+# 🟥 Links Úteis
 ---
 
 Com intúito de facilitar a vida de quem trabalha utilizando sempre os mesmos links diáriamente este pequeno software criado em python com interface gráfica pode ajudar.
@@ -38,21 +38,21 @@ ___
 <details>
  <summary>☎️ Contatos</summary>
 <div>
-  <samp>
-    <h2 align="center">😎 Onde pode me contactar:</h2>
+  <samp><br>
+    <h3 align="center">😎 Onde pode me contactar:</h3>
     <p align="center">
-      <br/>
+      <br>
       <a href="https://www.linkedin.com/in/gleilson-pedro/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="20"/></a>
       <a href="https://mailto:gleilsonsvo@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
+         alt="azzar" height="20"/></a>
       <a href="https://instagram.com/gleilson.pedro" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="20"/></a>
+    </p>
+
   </samp>
 </div>
 </details><br>
