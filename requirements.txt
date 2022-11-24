@@ -1,0 +1,3 @@
+tkinter
+PyQt6
+pyside6
